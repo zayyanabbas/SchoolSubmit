@@ -5,7 +5,7 @@
 <br>
 
 ### *Windows*
-In the [releases page](https://github.com/zayyanabbas/SchoolSubmit/releases/tag/0.1), you can download two files: `form_completer.exe` and `csv_maker.exe`
+In the [releases page](https://github.com/zayyanabbas/SchoolSubmit/releases/tag/1.0), you can download two files: `form_completer.exe` and `csv_maker.exe`
 
 <br>
 
